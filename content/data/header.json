@@ -24,7 +24,7 @@
         {
             "label": "Import Origins",
             "altText": "NepCoffee Import Origins",
-            "url": "/import",
+            "url": "/imports",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

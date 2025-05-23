@@ -7,7 +7,7 @@ sections:
       text: Nepal’s Leading Coffee Importer of Premium Beans
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Bridging Global Coffee Farms to Nepal
     text: >
       Nep.Coffee is a leading importer of premium green coffee beans, connecting
       the world's finest harvests with Nepal's burgeoning coffee industry. We

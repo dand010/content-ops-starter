@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Nepal’s Leading Coffee Importer of Premium Beans
+      text: Nepal’s Leading Coffee Importer & Exporter of Premium Beans
       color: text-dark
       type: TitleBlock
     subtitle: Bridging Global Coffee Farms to Nepal

@@ -15,7 +15,7 @@ sections:
       ecosystem. 
     actions:
       - label: Contact Us
-        altText: ''
+        altText: Contact Nep COffee
         url: /
         showIcon: false
         icon: arrowRight

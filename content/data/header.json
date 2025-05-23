@@ -54,7 +54,7 @@
                 },
                 {
                     "label": "Our Products",
-                    "url": "/",
+                    "url": "/products",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",

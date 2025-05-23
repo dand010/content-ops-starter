@@ -41,7 +41,7 @@
         },
         {
             "label": "Services",
-            "altText": "Dropdown",
+            "altText": "NepCoffee Services",
             "links": [
                 {
                     "label": "Dropdown item",

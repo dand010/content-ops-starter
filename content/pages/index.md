@@ -33,7 +33,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Gemini_Generated_Image_q4uo5hq4uo5hq4uo.jpg
+      url: /images/green-coffee-plans.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock

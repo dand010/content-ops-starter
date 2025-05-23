@@ -268,7 +268,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Nep.Coffe
       color: text-primary
       styles:
         self:

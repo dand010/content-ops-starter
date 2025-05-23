@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "About NC",
-            "url": "/pricing",
+            "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

@@ -22,50 +22,64 @@
             "altText": "About NepCoffee - Nepal Coffee"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Import Origins",
+            "altText": "NepCoffee Import Origins",
+            "url": "/imports",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "Exported Nepali Coffee",
+            "altText": "Exported Nepali Coffee",
+            "url": "/exports",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "Services",
+            "altText": "NepCoffee Services",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Import & Export Services",
+                    "url": "/services",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "NepCoffee Import & Export Services"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Our Products",
+                    "url": "/products",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "NepCoffee Products"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Our Process",
+                    "url": "/process",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "NepCoffee Process"
+                },
+                {
+                    "type": "Link",
+                    "label": "Sustainability & Ethics",
+                    "altText": "NepCoffee Sustainability & Ethics",
+                    "url": "/ethics",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "primary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
@@ -74,12 +88,13 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Log in",
-            "url": "/",
+            "label": "Partnership",
+            "url": "/partner",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Partner with us"
         }
     ],
     "variant": "logo-left-primary-nav-centered",

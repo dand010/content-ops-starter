@@ -4,15 +4,16 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Nepal’s Leading Coffee Importer of Premium Beans
+      text: Nepal’s Leading Coffee Importer & Exporter of Premium Beans
       color: text-dark
       type: TitleBlock
     subtitle: Bridging Global Coffee Farms to Nepal
     text: >
-      Nep.Coffee is a leading importer of premium green coffee beans, connecting
-      the world's finest harvests with Nepal's burgeoning coffee industry. We
-      are committed to quality, sustainability, and empowering the Nepali coffee
-      ecosystem. 
+      NepCoffee is a leading importer of premium green coffee beans, fueling
+      Nepal's vibrant coffee scene, and a dedicated exporter of exceptional
+      Nepali specialty coffee, sharing our unique terroir with the globe. We are
+      committed to quality, sustainability, and empowering the entire Nepali
+      coffee ecosystem.
     actions:
       - label: Contact Us
         altText: Contact Nep COffee
@@ -34,7 +35,7 @@ sections:
         type: Link
     media:
       url: /images/Gemini_Generated_Image_yfobvpyfobvpyfob.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: 'Connecting the World to Nepal''s Coffee, and Nepal''s Coffee to the World.'
       elementId: ''
       type: ImageBlock
     badge:
@@ -200,6 +201,43 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+  - title:
+      text: 'Nepal’s Premier Coffee Importer & Exporter - Global Beans, Local Roots'
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: "\"Bringing the World’s Finest Coffee to Nepal, Sharing Nepal’s Best with the World\" Background Image:\_Split-screen image: Left side showing imported coffee beans, right side showcasing Nepali coffee farmers harvesting."
+    text: >
+      Welcome to NepCoffee. We are at the forefront of Nepal's coffee industry,
+      acting as a vital bridge for both incoming and outgoing exceptional coffee
+      beans. We meticulously source and import a diverse range of high-grade
+      green coffee from renowned growing regions worldwide, catering to the
+      evolving tastes of Nepali roasters and consumers. Simultaneously, we
+      proudly showcase the unique flavors and quality of Nepali-grown specialty
+      coffee to the international market. Partner with us to experience the best
+      of both worlds and contribute to a thriving Nepali coffee future.
+
+
+
+
+      ![](/images/Gemini_Generated_Image_4q4xpk4q4xpk4q4x.jpg)
+    badge:
+      label: Nep.Coffe
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -229,54 +267,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: GenericSection
     title:
       text: Generic section with a video

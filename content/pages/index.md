@@ -25,7 +25,7 @@ sections:
         type: Button
       - label: About Us
         altText: 'About Nep Coffee '
-        url: /
+        url: /about
         showIcon: true
         icon: arrowRight
         iconPosition: right

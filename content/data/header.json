@@ -75,7 +75,7 @@
     "secondaryLinks": [
         {
             "label": "Partnership",
-            "url": "/",
+            "url": "/partner",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",

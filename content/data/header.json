@@ -45,7 +45,7 @@
             "links": [
                 {
                     "label": "Import & Export Services",
-                    "url": "/",
+                    "url": "/services",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",

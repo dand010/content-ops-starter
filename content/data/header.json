@@ -45,7 +45,7 @@
             "altText": "",
             "url": "/services",
             "showIcon": false,
-            "icon": "arrowRight",
+            "icon": "",
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""

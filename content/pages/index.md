@@ -34,7 +34,7 @@ sections:
         type: Link
     media:
       url: /images/Gemini_Generated_Image_yfobvpyfobvpyfob.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: 'Connecting the World to Nepal''s Coffee, and Nepal''s Coffee to the World.'
       elementId: ''
       type: ImageBlock
     badge:

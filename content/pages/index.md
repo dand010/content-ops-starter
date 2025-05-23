@@ -9,10 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Bridging Global Coffee Farms to Nepal
     text: >
-      Nep.Coffee is a leading importer of premium green coffee beans, connecting
-      the world's finest harvests with Nepal's burgeoning coffee industry. We
-      are committed to quality, sustainability, and empowering the Nepali coffee
-      ecosystem. 
+      NepCoffee is a leading importer of premium green coffee beans, fueling
+      Nepal's vibrant coffee scene, and a dedicated exporter of exceptional
+      Nepali specialty coffee, sharing our unique terroir with the globe. We are
+      committed to quality, sustainability, and empowering the entire Nepali
+      coffee ecosystem.
     actions:
       - label: Contact Us
         altText: Contact Nep COffee

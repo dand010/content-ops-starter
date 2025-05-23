@@ -16,7 +16,7 @@ sections:
     actions:
       - label: Contact Us
         altText: Contact Nep COffee
-        url: /
+        url: /contact
         showIcon: false
         icon: arrowRight
         iconPosition: right

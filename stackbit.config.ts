@@ -53,7 +53,6 @@ export default defineStackbitConfig({
 });
 
 // stackbit.config.ts
-import { defineStackbitConfig } from "@stackbit/types";
 import { GitContentSource } from "@stackbit/cms-git";
 
 export default defineStackbitConfig({

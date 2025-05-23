@@ -14,7 +14,7 @@ sections:
       are committed to quality, sustainability, and empowering the Nepali coffee
       ecosystem. 
     actions:
-      - label: Get started
+      - label: Contact Us
         altText: ''
         url: /
         showIcon: false

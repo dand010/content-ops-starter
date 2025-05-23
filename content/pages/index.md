@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Nep.Coffee is a leading importer of premium green coffee beans, connecting
+      the world's finest harvests with Nepal's burgeoning coffee industry. We
+      are committed to quality, sustainability, and empowering the Nepali coffee
+      ecosystem. 
     actions:
       - label: Get started
         altText: ''

@@ -238,11 +238,15 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Welcome to NepCoffee. We are at the forefront of Nepal's coffee industry,
+      acting as a vital bridge for both incoming and outgoing exceptional coffee
+      beans. We meticulously source and import a diverse range of high-grade
+      green coffee from renowned growing regions worldwide, catering to the
+      evolving tastes of Nepali roasters and consumers. Simultaneously, we
+      proudly showcase the unique flavors and quality of Nepali-grown specialty
+      coffee to the international market. Partner with us to experience the best
+      of both worlds and contribute to a thriving Nepali coffee future.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4

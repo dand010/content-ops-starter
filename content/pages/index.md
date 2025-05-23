@@ -231,7 +231,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: 'Nepal’s Premier Coffee Importer & Exporter | Global Beans, Local Roots'
       color: text-dark
       styles:
         self:

@@ -38,7 +38,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Nepal’s Leading Coffee Importer of Premium Beans
+      label: Nep Coffee
       color: text-primary
       type: Badge
     elementId: ''

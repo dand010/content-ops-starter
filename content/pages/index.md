@@ -218,6 +218,11 @@ sections:
       proudly showcase the unique flavors and quality of Nepali-grown specialty
       coffee to the international market. Partner with us to experience the best
       of both worlds and contribute to a thriving Nepali coffee future.
+
+
+
+
+      ![](/images/Gemini_Generated_Image_4q4xpk4q4xpk4q4x.jpg)
     badge:
       label: Nep.Coffe
       color: text-primary

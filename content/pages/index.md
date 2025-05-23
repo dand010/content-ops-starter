@@ -237,7 +237,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: "\"Bringing the World’s Finest Coffee to Nepal, Sharing Nepal’s Best with the World\"Background Image:\_Split-screen image: Left side showing imported coffee beans, right side showcasing Nepali coffee farmers harvesting."
+    subtitle: "\"Bringing the World’s Finest Coffee to Nepal, Sharing Nepal’s Best with the World\" Background Image:\_Split-screen image: Left side showing imported coffee beans, right side showcasing Nepali coffee farmers harvesting."
     text: >
       Welcome to NepCoffee. We are at the forefront of Nepal's coffee industry,
       acting as a vital bridge for both incoming and outgoing exceptional coffee

@@ -40,6 +40,17 @@
             "type": "Link"
         },
         {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/services",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Services",
             "altText": "NepCoffee Services",
             "links": [

@@ -63,7 +63,7 @@
                 },
                 {
                     "label": "Our Process",
-                    "url": "/",
+                    "url": "/process",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",

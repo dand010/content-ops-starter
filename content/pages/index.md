@@ -363,9 +363,13 @@ sections:
       type: TitleBlock
     subtitle: Section with a form subtitle
     text: |
-      **NepCoffee**
+
       Jawalakhel, Lalitpur, Nepal
+
+
       info(at)nep.coffee
+
+
       [www.nep.coffee](https://www.nep.coffee)
     media:
       fields:

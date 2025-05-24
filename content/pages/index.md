@@ -303,7 +303,7 @@ sections:
           with bold, smoky profiles, we cater to every coffee lover’s
           preference.
         image:
-          url: /images/NepCoffee-roster2.jpg
+          url: /images/Gemini_Generated_Image_jo6chijo6chijo6c.jpg
           altText: Special Roasts
           styles:
             self:

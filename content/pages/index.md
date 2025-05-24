@@ -127,7 +127,7 @@ sections:
           tailored solutions for businesses of all sizes. Our team provides
           training and support to ensure optimal brewing results.
         image:
-          url: /images/icon3.svg
+          url: /images/local-nep.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock

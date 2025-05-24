@@ -304,7 +304,7 @@ sections:
           preference.
         image:
           url: /images/NepCoffee-roster2.jpg
-          altText: Placeholder image
+          altText: Special Roasts
           styles:
             self:
               borderRadius: x-large

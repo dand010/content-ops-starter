@@ -118,7 +118,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Local
-        subtitle: Faster
+        subtitle: 'Distribution:'
         text: >
           We supply coffee to cafes, hotels, and retailers across Nepal, with
           tailored solutions for businesses of all sizes. Our team provides

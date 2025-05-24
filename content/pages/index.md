@@ -64,7 +64,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Ethical Sourcing
         subtitle: ''
         text: >
           Each batch is roasted with precision and tested through cupping to

@@ -361,7 +361,7 @@ sections:
       text: Get in touch with us at Nep.Coffee
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: NepCoffee
     text: |
 
       Jawalakhel, Lalitpur, Nepal

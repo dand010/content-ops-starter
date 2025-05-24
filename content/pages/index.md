@@ -321,7 +321,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Organic & Fair Trade Certified
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           Sourced from certified organic farms, these beans are grown without

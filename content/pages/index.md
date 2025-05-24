@@ -296,7 +296,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Specialty Roasts
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           From light roasts that highlight bright, fruity notes to dark roasts

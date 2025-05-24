@@ -93,7 +93,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Quality Assurance
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >
           Our coffees are packaged in eco-friendly, resealable bags to preserve
           freshness. We distribute to cafes, restaurants, and retailers across

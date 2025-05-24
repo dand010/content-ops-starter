@@ -144,7 +144,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: More about our Process
         altText: ''
         url: /
         showIcon: false

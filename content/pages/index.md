@@ -117,7 +117,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: Local
         subtitle: Faster
         text: >
           We supply coffee to cafes, hotels, and retailers across Nepal, with

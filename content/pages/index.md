@@ -271,7 +271,7 @@ sections:
     subtitle: Premium Coffee Beans for Every Palate
     items:
       - title: Single-Origin Beans
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           Experience the unique flavors of coffee from specific regions, such as

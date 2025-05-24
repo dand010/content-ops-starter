@@ -297,7 +297,7 @@ sections:
         type: FeaturedItem
       - title: Specialty Roasts
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:

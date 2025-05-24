@@ -324,8 +324,8 @@ sections:
         tagline: This is the tagline
         subtitle: ''
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          Sourced from certified organic farms, these beans are grown without
+          harmful pesticides and support fair wages for farmers.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image

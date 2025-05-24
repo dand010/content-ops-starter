@@ -120,9 +120,9 @@ sections:
       - title: 200%
         subtitle: Faster
         text: >
-          Local Distribution: We supply coffee to cafes, hotels, and retailers
-          across Nepal, with tailored solutions for businesses of all sizes. Our
-          team provides training and support to ensure optimal brewing results.
+          We supply coffee to cafes, hotels, and retailers across Nepal, with
+          tailored solutions for businesses of all sizes. Our team provides
+          training and support to ensure optimal brewing results.
         image:
           url: /images/icon3.svg
           altText: Featured icon three

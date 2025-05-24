@@ -270,7 +270,7 @@ sections:
       type: TitleBlock
     subtitle: Premium Coffee Beans for Every Palate
     items:
-      - title: Feature Item One
+      - title: Single-Origin Beans
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |

@@ -320,7 +320,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Organic & Fair Trade Certified
+      - title: Organic & Fair Trade
         tagline: ''
         subtitle: ''
         text: >

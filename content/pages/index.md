@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           Each batch is roasted with precision and tested through cupping to
           meet our stringent quality standards. We use both traditional and

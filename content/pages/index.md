@@ -173,7 +173,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Brands that we trust
+  - subtitle: Partner Countries
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo

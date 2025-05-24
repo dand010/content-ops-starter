@@ -1,0 +1,77 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "side img txt",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "widgets"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Business Consulting",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "Be in good company",
+                "text": "A service that provides advice and guidance to startups and small businesses.\n",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Get started",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "See Tutorials",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": null
+                    }
+                ],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/hero3.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Dope design preview",
+                    "elementId": null,
+                    "styles": null
+                },
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "This is a badge",
+                    "color": "text-primary",
+                    "styles": null
+                },
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "row-reverse"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-side-img-txt-b135.png"
+        }
+    ]
+}

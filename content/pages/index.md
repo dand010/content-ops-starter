@@ -146,7 +146,7 @@ sections:
     actions:
       - label: More about our Process
         altText: Nep Coffee Process
-        url: /
+        url: /process
         showIcon: false
         icon: arrowRight
         iconPosition: right

@@ -67,9 +67,10 @@ sections:
         title: Ethical Sourcing
         subtitle: ''
         text: >
-          Each batch is roasted with precision and tested through cupping to
-          meet our stringent quality standards. We use both traditional and
-          modern roasting techniques to bring out the best in every bean.
+          We work directly with farmers and cooperatives in top coffee-producing
+          regions to select the finest Arabica and Robusta beans. Our
+          partnerships prioritize fair trade, sustainability, and organic
+          farming practices.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

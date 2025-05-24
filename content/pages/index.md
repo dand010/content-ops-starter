@@ -61,7 +61,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      We take pride in our meticulous sourcing and import process to deliver
+      exceptional coffee to Nepal
     items:
       - type: FeaturedItem
         title: Ethical Sourcing

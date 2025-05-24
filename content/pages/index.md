@@ -145,7 +145,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: More about our Process
-        altText: ''
+        altText: Nep Coffee Process
         url: /
         showIcon: false
         icon: arrowRight

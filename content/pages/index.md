@@ -119,10 +119,10 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Local Distribution: We supply coffee to cafes, hotels, and retailers
+          across Nepal, with tailored solutions for businesses of all sizes. Our
+          team provides training and support to ensure optimal brewing results.
         image:
           url: /images/icon3.svg
           altText: Featured icon three

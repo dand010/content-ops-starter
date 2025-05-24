@@ -303,7 +303,7 @@ sections:
           with bold, smoky profiles, we cater to every coffee lover’s
           preference.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Gemini_Generated_Image_34wrj234wrj234wr.jpg
           altText: Placeholder image
           styles:
             self:

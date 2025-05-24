@@ -66,10 +66,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Each batch is roasted with precision and tested through cupping to
+          meet our stringent quality standards. We use both traditional and
+          modern roasting techniques to bring out the best in every bean.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

@@ -102,7 +102,7 @@ sections:
           freshness. We distribute to cafes, restaurants, and retailers across
           Nepal and ship internationally to meet global demand.
         image:
-          url: /images/icon2.svg
+          url: /images/Gemini_Generated_Image_24hodu24hodu24ho.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock

@@ -117,7 +117,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: "Local\_Distribution"
+      - title: "Local\_ Distribution"
         subtitle: ''
         text: >
           We supply coffee to cafes, hotels, and retailers across Nepal, with

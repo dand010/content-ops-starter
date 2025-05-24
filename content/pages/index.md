@@ -362,12 +362,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: NepCoffee
-    text: |
-      Jawalakhel, Lalitpur, Nepal
+    text: |+
+      <div style="text-align: left">*   Jawalakhel, Lalitpur, Nepal
 
-      info(at)nep.coffee
+      *   info(at)nep.coffee
 
-      [www.nep.coffee](https://www.nep.coffee)
+      *   [www.nep.coffee](https://www.nep.coffee)</div>
+
     media:
       fields:
         - name: name

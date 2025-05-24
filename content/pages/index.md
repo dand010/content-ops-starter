@@ -278,7 +278,7 @@ sections:
           Ethiopian Yirgacheffe’s floral notes or Colombian Supremo’s rich,
           caramel undertones.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Gemini_Generated_Image_fq2zo6fq2zo6fq2z.jpg
           altText: Placeholder Image
           styles:
             self:

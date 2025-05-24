@@ -273,8 +273,10 @@ sections:
       - title: Single-Origin Beans
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Experience the unique flavors of coffee from specific regions, such as
+          Ethiopian Yirgacheffe’s floral notes or Colombian Supremo’s rich,
+          caramel undertones.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image

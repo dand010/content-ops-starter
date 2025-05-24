@@ -55,21 +55,24 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Our Process
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      We take pride in our meticulous sourcing and import process to deliver
+      exceptional coffee to Nepal
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Ethical Sourcing
+        subtitle: ''
+        text: >
+          We work directly with farmers and cooperatives in top coffee-producing
+          regions to select the finest Arabica and Robusta beans. Our
+          partnerships prioritize fair trade, sustainability, and organic
+          farming practices.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -92,12 +95,12 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Quality Assurance
+        subtitle: ''
+        text: >
+          Our coffees are packaged in eco-friendly, resealable bags to preserve
+          freshness. We distribute to cafes, restaurants, and retailers across
+          Nepal and ship internationally to meet global demand.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -117,12 +120,12 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: "Local\_ Distribution"
+        subtitle: ''
+        text: >
+          We supply coffee to cafes, hotels, and retailers across Nepal, with
+          tailored solutions for businesses of all sizes. Our team provides
+          training and support to ensure optimal brewing results.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -151,7 +154,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Nepal Coffee
       color: text-primary
       styles:
         self:

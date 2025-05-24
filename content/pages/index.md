@@ -91,7 +91,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/sources-nep.png
           styles:
             self:
               borderRadius: x-large
@@ -102,7 +102,7 @@ sections:
           freshness. We distribute to cafes, restaurants, and retailers across
           Nepal and ship internationally to meet global demand.
         image:
-          url: /images/icon2.svg
+          url: /images/quality-nep.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -127,7 +127,7 @@ sections:
           tailored solutions for businesses of all sizes. Our team provides
           training and support to ensure optimal brewing results.
         image:
-          url: /images/icon3.svg
+          url: /images/local-nep.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -173,7 +173,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Partner Countries
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
@@ -262,21 +262,23 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: List of features here
+      text: Our Products
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Premium Coffee Beans for Every Palate
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Single-Origin Beans
+        tagline: ''
+        subtitle: ''
+        text: >
+          Experience the unique flavors of coffee from specific regions, such as
+          Ethiopian Yirgacheffe’s floral notes or Colombian Supremo’s rich,
+          caramel undertones.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Gemini_Generated_Image_fq2zo6fq2zo6fq2z.jpg
           altText: Placeholder Image
           styles:
             self:
@@ -293,14 +295,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: Specialty Roasts
+        tagline: ''
+        subtitle: ''
+        text: >
+          From light roasts that highlight bright, fruity notes to dark roasts
+          with bold, smoky profiles, we cater to every coffee lover’s
+          preference.
         image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
+          url: /images/Gemini_Generated_Image_jo6chijo6chijo6c.jpg
+          altText: Special Roasts
           styles:
             self:
               borderRadius: x-large
@@ -316,14 +320,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: Organic & Fair Trade
+        tagline: ''
+        subtitle: ''
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          Sourced from certified organic farms, these beans are grown without
+          harmful pesticides and support fair wages for farmers.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Gemini_Generated_Image_q4uo5hq4uo5hq4uo.jpg
           altText: Placeholder image
           styles:
             self:
@@ -354,15 +358,17 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Generic Section With A Form
+      text: Get in touch with us at Nep.Coffee
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: NepCoffee Pvt. Ltd.
+    text: |+
+      <div style="text-align: left">*   Jawalakhel, Lalitpur, Nepal
+
+      *   info(at)nep.coffee
+
+      *   [www.nep.coffee](https://www.nep.coffee)</div>
+
     media:
       fields:
         - name: name

@@ -363,12 +363,9 @@ sections:
       type: TitleBlock
     subtitle: NepCoffee
     text: |
-
       Jawalakhel, Lalitpur, Nepal
 
-
       info(at)nep.coffee
-
 
       [www.nep.coffee](https://www.nep.coffee)
     media:

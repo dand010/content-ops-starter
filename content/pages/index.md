@@ -91,7 +91,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/image_2025-05-24_160936783.png
+          url: /images/sources-nep.png
           styles:
             self:
               borderRadius: x-large

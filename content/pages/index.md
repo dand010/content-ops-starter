@@ -361,7 +361,7 @@ sections:
       text: Get in touch with us at Nep.Coffee
       color: text-dark
       type: TitleBlock
-    subtitle: NepCoffee
+    subtitle: NepCoffee Pvt. Ltd.
     text: |+
       <div style="text-align: left">*   Jawalakhel, Lalitpur, Nepal
 

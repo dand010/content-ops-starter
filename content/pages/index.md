@@ -268,7 +268,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Premium Coffee Beans for Every Palate
     items:
       - title: Feature Item One
         tagline: This is the tagline

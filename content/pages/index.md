@@ -298,8 +298,10 @@ sections:
       - title: Specialty Roasts
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          From light roasts that highlight bright, fruity notes to dark roasts
+          with bold, smoky profiles, we cater to every coffee lover’s
+          preference.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image

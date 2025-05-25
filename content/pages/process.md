@@ -58,9 +58,8 @@ sections:
       *   Sustainability and Community Impact: NepCoffee would likely allocate
       profits to support initiatives like farmer training, reforestation, and
       women's empowerment, contributing to community development and
-      environmental conservation, as seen in companies like [Nepal Organic
-      Coffee Products (NOCP)](https://www.nocp.com.np/), which focuses on
-      organic production and local farmer support.
+      environmental conservation, we focus on organic production and local
+      farmer support.
 
 
       This process ensures that NepCoffee maintains high standards, aligning

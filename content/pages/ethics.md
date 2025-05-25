@@ -11,11 +11,61 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      **Our Philosophy**
+
+
+      NepCoffee recognizes the crucial importance of environmental and social
+      responsibility throughout the coffee value chain, from international
+      origins to the farms of Nepal and the global consumer. We are committed to
+      building a sustainable ecosystem that benefits both the environment and
+      the communities we work with.
+
+
+      **Key Areas of Focus**
+
+
+      *   **Supporting Sustainable Farming Practices (Globally & in Nepal):** We
+      prioritize working with producers who employ environmentally friendly
+      farming methods, such as organic farming, shade-grown coffee, and water
+      conservation techniques, both for our imports and our Nepali exports.
+
+
+      <!---->
+
+
+      *   **Fair Trade and Ethical Sourcing (Globally & in Nepal):** We are
+      dedicated to promoting fair labor practices and ensuring that coffee
+      farmers receive fair compensation for their hard work, both
+      internationally and within Nepal.
+
+
+      <!---->
+
+
+      *   **Traceability (Both Imports & Exports):** We strive for transparency
+      in our supply chain, allowing us to trace our beans back to their origin,
+      whether they are coming into Nepal or being shipped out, ensuring
+      responsible sourcing and providing valuable information to our customers.
+
+
+      <!---->
+
+
+      *   **Reducing Our Environmental Footprint (Both Imports & Exports):** We
+      are continuously exploring ways to minimize our environmental impact
+      throughout our operations, from shipping and warehousing to promoting
+      eco-friendly packaging for our exports.
+
+
+      <!---->
+
+
+      *   **Empowering Coffee Communities (Focus on Nepal):** We are
+      particularly dedicated to supporting initiatives that contribute to the
+      social and economic well-being of Nepali coffee-growing communities
+      through fair pricing, training programs, and market access.
+
     actions: []
     media:
       type: VideoBlock

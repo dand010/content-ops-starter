@@ -52,7 +52,7 @@
             },
             {
                 "label": "Get in Touch",
-                "url": "/blog",
+                "url": "/contact",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",

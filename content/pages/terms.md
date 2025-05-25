@@ -11,11 +11,213 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      ## **NepCoffee - Terms of Service**
+
+
+      **Last Updated:** 05/25/2025
+
+
+      These Terms of Service ("Terms") govern your access to and use of the
+      website [www.nep.coffee]() (the "Site") and the services provided by
+      NepCoffee ("we," "us," or "our") (collectively, the "Services"). By
+      accessing or using our Site or Services, you agree to be bound by these
+      Terms.
+
+
+
+
+
+      **1. Acceptance of Terms**
+
+
+
+
+
+      By accessing or using our Site or Services, you represent that you have
+      read, understood, and agree to be bound by these Terms. If you do not
+      agree to these Terms, you may not access or use our Site or Services.
+
+
+      **2. Use of Our Services**
+
+
+
+
+
+
+
+
+
+
+
+
+      **3. Orders and Purchases**
+
+
+
+
+
+
+
+
+
+
+
+
+
+      **4. Intellectual Property**
+
+
+
+
+
+
+
+
+      **5. User-Generated Content**
+
+
+      *   If you submit any content to our Site (e.g., reviews, comments), you
+      grant us a non-exclusive, royalty-free, perpetual, irrevocable, and fully
+      sublicensable right to use, reproduce, modify, adapt, publish, translate,
+      create derivative works from, distribute, and display such content
+      throughout the world in any media.
+
+
+      *   You represent and warrant that you own or have the necessary rights to
+      the content you submit and that the content does not violate these Terms
+      or the rights of any third party.
+
+
+      *   We have the right, but not the obligation, to monitor, edit, or remove
+      any user-generated content that we deem to be inappropriate, offensive, or
+      in violation of these Terms.
+
+
+      **6. Disclaimer of Warranties**
+
+
+
+
+
+      OUR SITE AND SERVICES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS
+      WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+      LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+      PURPOSE, NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF
+      DEALING OR USAGE OF TRADE. WE DO NOT WARRANT THAT OUR SITE OR SERVICES
+      WILL BE UNINTERRUPTED, ERROR-FREE, SECURE, OR FREE OF VIRUSES OR OTHER
+      HARMFUL COMPONENTS.
+
+
+
+
+
+      **7. Limitation of Liability**
+
+
+
+
+
+      TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+      NEPCOFFEE, ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, OR
+      LICENSORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+      OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF
+      PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES) ARISING OUT OF
+      OR RELATING TO YOUR ACCESS TO OR USE OF (OR INABILITY TO ACCESS OR USE)
+      OUR SITE OR SERVICES, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING
+      NEGLIGENCE), STATUTE, OR ANY OTHER LEGAL THEORY, EVEN IF WE HAVE BEEN
+      ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR TOTAL LIABILITY TO YOU FOR
+      ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS OR OUR SERVICES SHALL
+      NOT EXCEED THE AMOUNT YOU PAID TO US, IF ANY, FOR THE APPLICABLE SERVICES.
+
+
+      **8. Indemnification**
+
+
+
+
+
+      You agree to indemnify, defend, and hold harmless NepCoffee, its
+      affiliates, officers, directors, employees, agents, and licensors from and
+      against any and all claims, liabilities, damages, losses, costs, expenses,
+      or fees (including reasonable attorneys' fees) arising out of or relating
+      to your breach of these Terms, your use of our Site or Services, or your
+      violation of any rights of a third party.
+
+
+
+
+
+      **9. Governing Law and Dispute Resolution**
+
+
+
+
+
+      These Terms shall be governed by and construed in accordance with the laws
+      of \[Specify Governing Law, e.g., Nepal]. Any dispute arising out of or
+      relating to these Terms or our Services shall be subject to the exclusive
+      jurisdiction of the courts located in \[Specify Jurisdiction, e.g.,
+      Kathmandu, Nepal].
+
+
+      **10. Termination**
+
+
+      We may terminate or suspend your access to our Site or Services at any
+      time, with or without cause and without prior notice. Upon termination,
+      your right to use our Site and Services will immediately cease. All
+      provisions of these Terms that by their nature should survive termination
+      shall survive termination, including but not limited to intellectual
+      property provisions, disclaimers of warranties, limitations of liability,
+      and indemnification.
+
+
+      **11. Entire Agreement**
+
+
+      These Terms constitute the entire agreement between you and NepCoffee
+      regarding your access to and use of our Site and Services and supersede
+      all prior or contemporaneous communications and proposals, whether oral or
+      written.
+
+
+      **12. Severability**
+
+
+      If any provision of these Terms is held to be invalid or unenforceable,
+      such provision shall be struck and the remaining provisions shall remain
+      in full force and effect.
+
+
+
+
+
+      **13. Waiver**
+
+
+
+
+
+      Our failure to enforce any right or provision of these Terms shall not
+      constitute a waiver of such right or provision.
+
+
+      **14. Contact Us**
+
+
+      If you have any questions about these Terms, please contact us at:
+
+
+      NepCoffee
+
+      \[Physical Address in Nepal - if applicable]
+
+      \[Email Address]
+
+      \[Phone Number]
+
     actions: []
     colors: bg-light-fg-dark
     styles:

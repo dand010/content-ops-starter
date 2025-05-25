@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >
       NepCoffee's process would encompass both importing and exporting, ensuring
       quality and sustainability at every stage:

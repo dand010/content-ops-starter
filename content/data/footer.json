@@ -44,7 +44,7 @@
             {
                 "label": "Partnership",
                 "altText": "Partner with us",
-                "url": "/careers",
+                "url": "/partner",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",

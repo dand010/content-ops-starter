@@ -176,7 +176,7 @@ sections:
       **Origin: Indonesia - Earthy and Bold Flavors**
 
 
-      ***
+      ****![](/images/Indonesian-coffee.jpg)
 
 
       Indonesian coffees are prized for their unique flavor profiles, often

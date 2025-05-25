@@ -190,7 +190,7 @@ sections:
       - url: /images/Ethiopia.jpg
         altText: Ethopia
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/Colombia.jpg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg

@@ -2,17 +2,6 @@
 type: PageLayout
 title: NepCoffee - Privacy Policy
 sections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock

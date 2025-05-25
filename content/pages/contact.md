@@ -7,7 +7,9 @@ sections:
       type: TitleBlock
       text: Get in Touch with NepCoffee
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: >-
+      We’re here to help you bring the world’s best coffee to your customers or
+      home. Reach out to us for inquiries, orders, or partnership opportunities.
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet

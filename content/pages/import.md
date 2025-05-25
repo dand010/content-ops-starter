@@ -22,10 +22,10 @@ sections:
       **Origin: Ethiopia - The Birthplace of Coffee**
 
 
-      ****![](/images/Ethiopian-coffee.jpg)
+      ![](/images/Ethiopian-coffee.jpg)
 
 
-      ****
+      ***
 
 
       Ethiopia, the legendary birthplace of coffee, offers an incredible array
@@ -60,7 +60,7 @@ sections:
       **Origin: Colombia - The Land of Balanced Beans**
 
 
-      **(Image: Picturesque Colombian coffee landscape or beans)**
+      ****![](/images/Colombian-coffee-landscape.jpg)
 
 
       Renowned for its consistently high-quality Arabica beans, Colombia offers
@@ -98,7 +98,7 @@ sections:
       **Origin: Brazil - The World's Largest Producer**
 
 
-      **(Image: Picturesque Brazilian coffee landscape or beans)**
+      ****![](/images/Brazilian-coffee-landscape.jpg)
 
 
       As the world's largest coffee producer, Brazil offers a wide range of
@@ -137,7 +137,7 @@ sections:
       **Origin: Kenya - The Connoisseur's Cup**
 
 
-      **(Image: Picturesque Kenyan coffee landscape or beans)**
+      ****![](/images/Kenyan-coffee.jpg)
 
 
       Kenyan coffee is celebrated for its complex and vibrant flavors, often
@@ -176,7 +176,7 @@ sections:
       **Origin: Indonesia - Earthy and Bold Flavors**
 
 
-      **(Image: Picturesque Indonesian coffee landscape or beans)**
+      ****
 
 
       Indonesian coffees are prized for their unique flavor profiles, often

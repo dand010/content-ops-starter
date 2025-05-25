@@ -11,7 +11,7 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >
+    text: >+
       **Last Updated:** 05/25/2025
 
 
@@ -146,11 +146,14 @@ sections:
       privacy practices, please contact us at:
 
 
-      NepCoffee
+      *   NepCoffee
 
-      Jawalakhel, Lalitpur, Nepal
 
-      info(@)nep.coffee
+      *   Jawalakhel, Lalitpur, Nepal
+
+
+      *   info(@)nep.coffee
+
     actions: []
     colors: bg-light-fg-dark
     styles:

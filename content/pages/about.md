@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: About Nep.Coffee
+      text: About NepCoffee
       color: text-dark
       styles:
         self:

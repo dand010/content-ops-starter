@@ -187,7 +187,7 @@ sections:
       - url: /images/Kenya.jpg
         altText: Kenya
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/Ethiopia.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg

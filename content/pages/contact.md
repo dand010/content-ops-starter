@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Get in Touch with NepCoffee
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-

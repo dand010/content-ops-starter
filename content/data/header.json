@@ -24,7 +24,7 @@
         {
             "label": "Import Origins",
             "altText": "NepCoffee Import Origins",
-            "url": "/imports",
+            "url": "/import",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -33,7 +33,7 @@
         {
             "label": "Exported Nepali Coffee",
             "altText": "Exported Nepali Coffee",
-            "url": "/exports",
+            "url": "/export",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

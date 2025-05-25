@@ -12,6 +12,9 @@ sections:
           textAlign: left
     subtitle: ''
     text: >
+      ![](/images/nepal-coffee.jpg)
+
+
       NepCoffee was established with a dual vision: to be the premier gateway
       for exceptional coffee into and out of Nepal. We are driven by a passion
       for quality coffee and a deep understanding of both the Nepali market's

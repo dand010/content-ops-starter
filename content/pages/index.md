@@ -184,7 +184,7 @@ sections:
       - url: /images/Peru.jpg
         altText: Peru
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/Kenya.jpg
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg

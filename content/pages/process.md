@@ -72,9 +72,9 @@ sections:
       Simultaneously, exports are gaining traction, with tools like the Coffee
       Export Guides for Europe and USA, launched in 2022, facilitating market
       access. NepCoffee would leverage these trends, positioning itself as a
-      bridge between local production and global markets.Community engagement is
-      crucial, with NepCoffee likely supporting smallholders, as most Nepalese
-      coffee is grown by small farmers, incentivized by higher returns.
+      bridge between local production and global markets. Community engagement
+      is crucial, with NepCoffee likely supporting smallholders, as most
+      Nepalese coffee is grown by small farmers, incentivized by higher returns.
       Initiatives like farmer training and reforestation would align with
       sustainability goals, ensuring long-term viability for both the company
       and the industry.

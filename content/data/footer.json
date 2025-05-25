@@ -28,7 +28,7 @@
             },
             {
                 "label": "Exported Nepali Coffee",
-                "url": "/",
+                "url": "/export",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",

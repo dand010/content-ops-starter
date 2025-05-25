@@ -181,7 +181,7 @@ sections:
       - url: /images/Brazil.jpg
         altText: Braliz
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/Peru.jpg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg

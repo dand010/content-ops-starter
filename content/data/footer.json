@@ -19,7 +19,7 @@
             },
             {
                 "label": "Import Origins",
-                "url": "/pricing",
+                "url": "/import",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",

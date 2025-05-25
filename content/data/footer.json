@@ -11,7 +11,7 @@
             {
                 "label": "About NepCoffee",
                 "altText": "About NepCoffee",
-                "url": "/",
+                "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",

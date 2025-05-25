@@ -182,7 +182,7 @@ sections:
         altText: Braliz
         type: ImageBlock
       - url: /images/Peru.jpg
-        altText: Vise logo
+        altText: Peru
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo

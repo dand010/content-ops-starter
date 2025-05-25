@@ -10,11 +10,29 @@ sections:
     subtitle: >-
       We’re here to help you bring the world’s best coffee to your customers or
       home. Reach out to us for inquiries, orders, or partnership opportunities.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+
+
+      *   Address: NepCoffee, Jawalakhel, Lalitpur, Nepal  
+
+
+      *   Email: info\@nep.coffee  
+
+
+      *   Website: [www.nep.coffee](https://www.nep.coffee)
+
+
+      **Business Hours:**
+
+      Monday–Friday: 9:00 AM–6:00 PM
+
+      Closed on Saturday & Sundays
+
+
+      **Interested in Wholesale?**
+
+      Contact our sales team at info(at)nep.coffee to discuss bulk orders,
+      custom blends, or exclusive partnerships.
     actions: []
     media:
       type: FormBlock

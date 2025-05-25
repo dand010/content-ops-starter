@@ -176,7 +176,7 @@ sections:
   - subtitle: Partner Countries
     images:
       - url: /images/Nepal-Coffee.png
-        altText: Empathy logo
+        altText: Nepal
         type: ImageBlock
       - url: /images/Brazil.jpg
         altText: Braliz

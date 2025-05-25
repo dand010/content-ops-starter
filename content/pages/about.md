@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About NepCoffee
+title: ''
 sections:
   - type: GenericSection
     title:

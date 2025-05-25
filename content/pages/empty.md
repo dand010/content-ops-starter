@@ -12,7 +12,7 @@ sections:
           textAlign: left
     subtitle: Section with a video subtitle
     text: >
-      **Last Updated:** \[Date]
+      **Last Updated:** 05/25/2025
 
 
       This Privacy Policy describes how NepCoffee ("we," "us," or "our")
@@ -21,14 +21,10 @@ sections:
       services (the "Services").
 
 
-
-
       **1. Information We Collect**
 
 
       We may collect the following types of personal information from you:
-
-
 
 
       **2. How We Use Your Information**
@@ -66,15 +62,11 @@ sections:
       regulations, and legal processes.
 
 
-
-
       **3. How We Share Your Information**
 
 
       We may share your personal information with the following categories of
       recipients:
-
-
 
 
       **4. Data Retention**
@@ -83,8 +75,6 @@ sections:
       We will retain your personal information for as long as necessary to
       fulfill the purposes outlined in this Privacy Policy, unless a longer
       retention period is required or permitted by law.
-
-
 
 
       **5. Your Rights**
@@ -99,8 +89,6 @@ sections:
       request.
 
 
-
-
       **6. Security of Your Information**
 
 
@@ -109,8 +97,6 @@ sections:
       no method of transmission over the internet or method of electronic
       storage is completely secure. Therefore, we cannot guarantee the absolute
       security of your information.
-
-
 
 
       **7. International Data Transfers**
@@ -124,8 +110,6 @@ sections:
       Privacy Policy.
 
 
-
-
       **8. Children's Privacy**
 
 
@@ -134,8 +118,6 @@ sections:
       from children. If you believe that we have collected personal information
       from a child, please contact us immediately, and we will take steps to
       delete the information.
-
-
 
 
       **9. Links to Other Websites**
@@ -147,8 +129,6 @@ sections:
       personal information.
 
 
-
-
       **10. Updates to This Privacy Policy**
 
 
@@ -157,8 +137,6 @@ sections:
       to review this Privacy Policy periodically for any changes. Your continued
       use of our Site and Services after the posting of changes constitutes your
       acceptance of the updated Privacy Policy.
-
-
 
 
       **11. Contact Us**

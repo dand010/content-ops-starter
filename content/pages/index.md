@@ -187,7 +187,7 @@ sections:
       - url: /images/Kenya.jpg
         altText: Kenya
         type: ImageBlock
-      - url: /images/Ethiopia.jpg
+      - url: /images/Ethiopia-coffee.jpg
         altText: Ethopia
         type: ImageBlock
       - url: /images/Colombia.jpg

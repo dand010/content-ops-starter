@@ -19,19 +19,13 @@ sections:
 
 
       These Terms of Service ("Terms") govern your access to and use of the
-      website [www.nep.coffee]() (the "Site") and the services provided by
-      NepCoffee ("we," "us," or "our") (collectively, the "Services"). By
-      accessing or using our Site or Services, you agree to be bound by these
-      Terms.
-
-
-
+      website [www.nep.coffee](https://nep.coffee) (the "Site") and the services
+      provided by NepCoffee ("we," "us," or "our") (collectively, the
+      "Services"). By accessing or using our Site or Services, you agree to be
+      bound by these Terms.
 
 
       **1. Acceptance of Terms**
-
-
-
 
 
       By accessing or using our Site or Services, you represent that you have
@@ -42,37 +36,103 @@ sections:
       **2. Use of Our Services**
 
 
+      *   Eligibility: You must be of legal age in your jurisdiction to enter
+      into these Terms or have the consent of a parent or legal
+      guardian.<sup>30</sup>
 
 
+      *   Account Creation: You may need to create an account to access certain
+      features of our Services. You are responsible for maintaining the
+      confidentiality of your account<sup>31</sup> credentials and for all
+      activities that occur under your account. You agree to provide accurate
+      and complete information when creating your account.
 
 
+      *   Permitted Use: You agree to use our Site and Services only for lawful
+      purposes and in accordance with these Terms. You shall not:
 
 
+      *   Use our Site or Services<sup>32</sup> in any way that violates
+      applicable laws or regulations.
 
 
+      *   Engage in any conduct that restricts or inhibits anyone's use or
+      enjoyment of our Site or Services.
+
+
+      *   Attempt to gain unauthorized access to our Site, Services, or related
+      systems or networks.
+
+
+      *   Interfere with or disrupt the operation of our Site or Services.
+
+
+      *   Use any robot, spider, or other automated means to access our Site or
+      Services without our express written permission.
+
+
+      *   Transmit any viruses, malware, or other harmful code.
+
+
+      *   Collect or harvest any personally identifiable information from our
+      Site or Services without proper authorization.
 
 
       **3. Orders and Purchases**
 
 
+      *   Product Information: We strive to provide accurate descriptions and
+      images of our products. However, we do not warrant that the product
+      descriptions or other content on our Site are error-free.
 
 
+      *   Pricing: Prices for our products are subject to change without notice.
 
 
+      *   Order Acceptance: Your order constitutes an offer to purchase the
+      products listed in your order. We may accept or reject your order at our
+      discretion. If we reject your order, we will notify you and refund any
+      payment you have made.
 
 
+      *   Payment: You agree to pay the full price for the products you
+      purchase, including any applicable taxes and shipping fees. Payment
+      processing may be handled by third-party providers, and you agree to their
+      terms and conditions.
 
 
+      *   Shipping and Delivery: Shipping and delivery times are estimates and
+      are not guaranteed. Risk of loss and title for products pass to you upon
+      our delivery to the carrier.
 
+
+      *   Returns and Refunds: Our return and refund policy is outlined
+      separately on our Site. Please review that policy carefully.
 
 
       **4. Intellectual Property**
 
 
+      *   Ownership: The Site and its content, including but not limited to
+      text, graphics, logos, images, software, and other materials
+      (collectively, the "Content"), are owned by or licensed to NepCoffee and
+      are protected by copyright, trademark, and other intellectual property
+      laws.
 
 
+      *   Limited License: We grant you a limited, non-exclusive,
+      non-transferable, and revocable license to access and use the Site and
+      Content for your personal and non-commercial use in accordance with these
+      Terms.
 
 
+      *   Restrictions: You may not reproduce, modify, distribute, display,
+      perform, publish, create derivative works from, or otherwise exploit the
+      Content without our prior written consent.
+
+
+      *   Trademarks: The NepCoffee name and logo are trademarks of NepCoffee.
+      You may not use our trademarks without our prior written permission.
 
 
       **5. User-Generated Content**
@@ -98,9 +158,6 @@ sections:
       **6. Disclaimer of Warranties**
 
 
-
-
-
       OUR SITE AND SERVICES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS
       WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
       LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
@@ -110,13 +167,7 @@ sections:
       HARMFUL COMPONENTS.
 
 
-
-
-
       **7. Limitation of Liability**
-
-
-
 
 
       TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
@@ -135,9 +186,6 @@ sections:
       **8. Indemnification**
 
 
-
-
-
       You agree to indemnify, defend, and hold harmless NepCoffee, its
       affiliates, officers, directors, employees, agents, and licensors from and
       against any and all claims, liabilities, damages, losses, costs, expenses,
@@ -146,13 +194,7 @@ sections:
       violation of any rights of a third party.
 
 
-
-
-
       **9. Governing Law and Dispute Resolution**
-
-
-
 
 
       These Terms shall be governed by and construed in accordance with the laws
@@ -191,13 +233,7 @@ sections:
       in full force and effect.
 
 
-
-
-
       **13. Waiver**
-
-
-
 
 
       Our failure to enforce any right or provision of these Terms shall not
@@ -210,13 +246,17 @@ sections:
       If you have any questions about these Terms, please contact us at:
 
 
+
       NepCoffee
 
-      \[Physical Address in Nepal - if applicable]
 
-      \[Email Address]
+      *   Jawalakhel, Lalitpur, Nepal
 
-      \[Phone Number]
+
+      *   info(@)nep.coffee
+
+
+      *   www\.nep.coffee
 
     actions: []
     colors: bg-light-fg-dark

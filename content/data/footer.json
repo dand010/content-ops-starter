@@ -6,55 +6,58 @@
     },
     "text": "Leading importer of premium green coffee beans, fueling Nepal's vibrant coffee scene.\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
+                "label": "About NepCoffee",
+                "altText": "About NepCoffee",
+                "url": "/about",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
+                "label": "Import Origins",
+                "url": "/import",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Import Origins"
             },
             {
-                "label": "Documentation",
-                "url": "/",
+                "label": "Exported Nepali Coffee",
+                "url": "/export",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Exported Nepali Coffee"
             }
         ],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "Partnership",
+                "altText": "Partner with us",
+                "url": "/partner",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Get in Touch",
+                "url": "/contact",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
-                "type": "Link"
+                "type": "Link",
+                "altText": "Contact us"
             }
         ],
         "type": "FooterLinksGroup"
@@ -103,7 +106,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "All right reserved Nep.Coffee\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
     "title": ""

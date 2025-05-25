@@ -175,26 +175,23 @@ sections:
         textAlign: center
   - subtitle: Partner Countries
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - url: /images/Nepal-Coffee.png
+        altText: Nepal
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+      - url: /images/Brazil.jpg
+        altText: Braliz
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - url: /images/Peru.jpg
+        altText: Peru
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
+      - url: /images/Kenya.jpg
+        altText: Kenya
         type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
+      - url: /images/Ethiopia-coffee.jpg
+        altText: Ethopia
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+      - url: /images/Colombia.jpg
+        altText: Coloumbia
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark

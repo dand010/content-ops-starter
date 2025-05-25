@@ -98,7 +98,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-slug: partner
+slug: services
 isDraft: false
 seo:
   type: Seo

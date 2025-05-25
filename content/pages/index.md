@@ -175,7 +175,7 @@ sections:
         textAlign: center
   - subtitle: Partner Countries
     images:
-      - url: /images/Nepal.png
+      - url: /images/Nepal-Coffee.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/Brazil.png

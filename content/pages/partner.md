@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Partner With NepCoffee
       color: text-dark
       styles:
         self:

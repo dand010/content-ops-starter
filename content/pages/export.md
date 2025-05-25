@@ -12,6 +12,9 @@ sections:
           textAlign: left
     subtitle: Discover the Excellence of Nepali Coffee
     text: >
+      ![](/images/nepal-coffee-landscape.jpg)
+
+
       Nepal's unique terroir, high altitudes, and dedicated farmers produce
       exceptional specialty coffee with distinctive flavor profiles. NepCoffee
       is proud to showcase these premium beans to the international market,

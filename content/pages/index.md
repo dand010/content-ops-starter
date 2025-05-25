@@ -175,7 +175,7 @@ sections:
         textAlign: center
   - subtitle: Partner Countries
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/Nepal.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg

@@ -191,7 +191,7 @@ sections:
         altText: Ethopia
         type: ImageBlock
       - url: /images/Colombia.jpg
-        altText: Sanity logo
+        altText: Coloumbia
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo

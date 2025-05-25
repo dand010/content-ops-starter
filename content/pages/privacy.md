@@ -162,7 +162,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-slug: empty
+slug: privacy
 isDraft: false
 seo:
   type: Seo

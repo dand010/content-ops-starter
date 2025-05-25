@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: 'NepCoffee''s product range would reflect its dual role, offering:'
     text: >
       ****
 

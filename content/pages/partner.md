@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Our Comprehensive Import & Export Services
+      text: Services
       color: text-dark
       styles:
         self:

@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "About NepCoffee",
-                "altText": "Features page",
+                "altText": "About NepCoffee",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",

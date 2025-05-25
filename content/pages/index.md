@@ -179,7 +179,7 @@ sections:
         altText: Empathy logo
         type: ImageBlock
       - url: /images/Brazil.jpg
-        altText: Wellster logo
+        altText: Braliz
         type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo

@@ -11,11 +11,15 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      NepCoffee was established in \[Year of Establishment] with a dual vision:
+      to be the premier gateway for exceptional coffee into and out of Nepal. We
+      are driven by a passion for quality coffee and a deep understanding of
+      both the Nepali market's demand for diverse international beans and the
+      global appreciation for Nepal's unique coffee offerings. Our mission is to
+      foster strong relationships built on trust, transparency, and mutual
+      growth, connecting international producers with Nepali businesses and
+      sharing the excellence of Nepali coffee with the world.
     actions: []
     media:
       type: VideoBlock

@@ -21,11 +21,16 @@ sections:
       flavors, catering to Nepal's urban coffee shops and consumers.
 
 
+      <!---->
+
+
       *   Nepalese Specialty Coffees: Grown in the Himalayan foothills at
       altitudes of 1,000–1,600 meters, these coffees are prized for their bright
       acidity, fruity notes (e.g., citrus, berries), and smooth finish, sourced
-      from regions like Nuwakot, Palpa, and Ilam, as mentioned in [Royal Nepal
-      Coffee](https://royalnepalcoffee.com/).
+      from regions like Nuwakot, Palpa, and Ilam.
+
+
+      <!---->
 
 
       *   Signature Blends: Combining imported and local beans, these blends
@@ -33,9 +38,15 @@ sections:
       espresso, drip, or French press.
 
 
+      <!---->
+
+
       *   Organic and Fair Trade Options: Reflecting industry trends, NepCoffee
       would likely offer certified organic and fair trade coffees, ensuring
       ethical sourcing and environmental responsibility.
+
+
+      <!---->
 
 
       *   Roasted to Order: All products would be roasted fresh in small

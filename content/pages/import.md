@@ -60,7 +60,7 @@ sections:
       **Origin: Colombia - The Land of Balanced Beans**
 
 
-      ****![](/images/Colombian-coffee-landscape.jpg)
+      ![](/images/Colombian-coffee-landscape.jpg)
 
 
       Renowned for its consistently high-quality Arabica beans, Colombia offers
@@ -98,7 +98,7 @@ sections:
       **Origin: Brazil - The World's Largest Producer**
 
 
-      ****![](/images/Brazilian-coffee-landscape.jpg)
+      ![](/images/Brazilian-coffee-landscape.jpg)
 
 
       As the world's largest coffee producer, Brazil offers a wide range of
@@ -137,7 +137,7 @@ sections:
       **Origin: Kenya - The Connoisseur's Cup**
 
 
-      ****![](/images/Kenyan-coffee.jpg)
+      ![](/images/Kenyan-coffee.jpg)
 
 
       Kenyan coffee is celebrated for its complex and vibrant flavors, often
@@ -176,7 +176,7 @@ sections:
       **Origin: Indonesia - Earthy and Bold Flavors**
 
 
-      ****
+      ***
 
 
       Indonesian coffees are prized for their unique flavor profiles, often

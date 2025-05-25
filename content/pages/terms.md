@@ -12,7 +12,7 @@ sections:
           textAlign: left
     subtitle: ''
     text: >+
-      ## **NepCoffee - Terms of Service**
+      ****
 
 
       **Last Updated:** 05/25/2025
@@ -246,7 +246,6 @@ sections:
       If you have any questions about these Terms, please contact us at:
 
 
-
       NepCoffee
 
 
@@ -256,7 +255,7 @@ sections:
       *   info(@)nep.coffee
 
 
-      *   www\.nep.coffee
+      *   [www.nep.coffee](http://www.nep.coffee)
 
     actions: []
     colors: bg-light-fg-dark

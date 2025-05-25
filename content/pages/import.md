@@ -11,7 +11,7 @@ sections:
         self:
           textAlign: left
     subtitle: Explore Our Imported Coffee Origins
-    text: >+
+    text: >
       We meticulously select our green coffee beans from some of the most
       esteemed coffee-growing regions around the world. Each origin offers
       unique flavor profiles and characteristics, allowing Nepali roasters to
@@ -22,7 +22,10 @@ sections:
       **Origin: Ethiopia - The Birthplace of Coffee**
 
 
-      **(Image: Picturesque Ethiopian coffee landscape or beans)**
+      ****![](/images/Ethiopian-coffee.jpg)
+
+
+      ****
 
 
       Ethiopia, the legendary birthplace of coffee, offers an incredible array
@@ -32,7 +35,7 @@ sections:
       diverse needs of the Nepali market.
 
 
-      **Key Characteristics/Flavor** 
+      **Key Characteristics/Flavor**
 
 
       *   Floral aromas (jasmine, bergamot)
@@ -47,13 +50,11 @@ sections:
       *   Complex and nuanced flavors
 
 
-      **Sustainability/Sourcing** 
+      **Sustainability/Sourcing**
 
 
       We partner with cooperatives and estates committed to sustainable farming
       and fair labor practices in Ethiopia.
-
-
 
 
       **Origin: Colombia - The Land of Balanced Beans**
@@ -68,7 +69,7 @@ sections:
       with a medium body and bright, citrus-like acidity.
 
 
-      **Key Characteristics/Flavor** 
+      **Key Characteristics/Flavor**
 
 
       *   Balanced acidity
@@ -86,14 +87,12 @@ sections:
       *   Clean and smooth finish
 
 
-      **Sustainability/Sourcing** 
+      **Sustainability/Sourcing**
 
 
       We work with Colombian producers who often hand-pick their beans, ensuring
       only the ripest cherries are harvested. We prioritize relationships with
       farms practicing sustainable agriculture and fair labor.
-
-
 
 
       **Origin: Brazil - The World's Largest Producer**
@@ -135,8 +134,6 @@ sections:
       and fair-trade certifications.
 
 
-
-
       **Origin: Kenya - The Connoisseur's Cup**
 
 
@@ -168,14 +165,12 @@ sections:
       *   Clean and crisp finish
 
 
-      **Sustainability/Sourcing** 
+      **Sustainability/Sourcing**
 
 
       We partner with Kenyan cooperatives and estates known for their meticulous
       wet-processing methods and commitment to quality. We prioritize fair
       prices for farmers and environmentally sound practices.
-
-
 
 
       **Origin: Indonesia - Earthy and Bold Flavors**
@@ -216,7 +211,6 @@ sections:
       We work with cooperatives and estates across the Indonesian archipelago,
       seeking out high-quality beans and supporting sustainable practices,
       including shade-grown coffee and fair trade initiatives.
-
     actions: []
     colors: bg-light-fg-dark
     styles:

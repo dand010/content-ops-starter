@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >
       NepCoffee was established with a dual vision: to be the premier gateway
       for exceptional coffee into and out of Nepal. We are driven by a passion

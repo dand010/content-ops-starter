@@ -178,7 +178,7 @@ sections:
       - url: /images/Nepal-Coffee.png
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/Brazil.png
+      - url: /images/Brazil.jpg
         altText: Wellster logo
         type: ImageBlock
       - url: /images/vise-logo.svg

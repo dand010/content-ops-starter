@@ -185,7 +185,7 @@ sections:
         altText: Peru
         type: ImageBlock
       - url: /images/Kenya.jpg
-        altText: Telus logo
+        altText: Kenya
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo

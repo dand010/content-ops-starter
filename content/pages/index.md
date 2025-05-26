@@ -417,7 +417,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: NepCoffee
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Nepal’s Leading Coffee Importer & Exporter of Premium Beans
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

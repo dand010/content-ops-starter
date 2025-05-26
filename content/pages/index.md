@@ -418,7 +418,7 @@ sections:
 seo:
   metaTitle: NepCoffee
   metaDescription: Nepal’s Leading Coffee Importer & Exporter of Premium Beans
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/image_2025-05-24_162803149.png
   type: Seo
 type: PageLayout
 ---

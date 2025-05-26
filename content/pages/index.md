@@ -1,5 +1,5 @@
 ---
-title: Home
+title: NepCoffee- Nepal’s Leading Coffee Importer & Exporter of Premium Beans
 slug: /
 sections:
   - type: GenericSection
